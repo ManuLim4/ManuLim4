@@ -1,12 +1,12 @@
 ### Olá 👋
 
-# Info
+## Info
 * 15 anos
 * Gênero feminino
 * Estudante - Anos finais
 * Inglês intermediário
 
-# Cursos
+## Cursos
 
 |Completos|Em andamento|
 |---------|------------|
