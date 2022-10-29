@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**ManuLim4/ManuLim4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Info
+* 15y
+* M
+* Estudante - Anos finais
+* Inglês intermediário
 
-Here are some ideas to get you started:
+# Cursos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Completos|Em andamento|
+|---------|------------|
+|Lógica da Programação|Fundamentos em CSS| 
+
+## Objetivo
+Me profissionalizar para programador web.
