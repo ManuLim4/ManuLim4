@@ -1,8 +1,8 @@
 ### Olá 👋
 
 # Info
-* 15y
-* M
+* 15 anos
+* Gênero feminino
 * Estudante - Anos finais
 * Inglês intermediário
 
