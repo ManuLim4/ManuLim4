@@ -10,7 +10,10 @@
 
 |Completos|Em andamento|
 |---------|------------|
-|Lógica da Programação|Fundamentos em CSS| 
+|Lógica da Programação|JScript| 
+|Fundamentos em CSS|JQuery|
+||Ajax|
+||MySQL|
 
 ## Objetivo
 Me profissionalizar para programador web.
